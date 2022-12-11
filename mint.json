@@ -46,13 +46,15 @@
     {
       "name": "Blog",
       "icon": "newspaper",
-      "url": "https://canda.blog"
+      "url": "https://www.canda.blog"
     }
   ],
   "navigation": [
     {
       "group": "Start",
-      "pages": ["start-here"]
+      "pages": [
+        "start-here"
+      ]
     },
     {
       "group": "Mental Models",
