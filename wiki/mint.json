@@ -33,7 +33,9 @@
     {
       "name": "블로그",
       "url": "https://www.canda.blog/"
-    },
+    }
+  ],
+  "topbarCtaButton": [
     {
       "name": "뉴스레터 구독하기",
       "url": "https://www.canda.blog/#/portal/signup"
@@ -59,7 +61,7 @@
     {
       "group": "Mental Models",
       "pages": [
-            "mental-models/via-negativa"
+            "via-negativa"
           ]
     },
     {
