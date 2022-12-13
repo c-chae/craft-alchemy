@@ -35,12 +35,10 @@
       "url": "https://www.canda.blog/"
     }
   ],
-  "topbarCtaButton": [
-    {
-      "name": "뉴스레터 구독하기",
-      "url": "https://www.canda.blog/#/portal/signup"
-    }
-  ],
+  "topbarCtaButton": {
+    "name": "뉴스레터 구독하기",
+    "url": "https://www.canda.blog/#/portal/signup"
+  },
   "topAnchor": {
     "name": "craft + alchemy wiki"
   },
@@ -54,23 +52,17 @@
   "navigation": [
     {
       "group": "Start",
-      "pages": [
-        "start-here"
-      ]
+      "pages": ["start-here"]
     },
     {
       "group": "Mental Models",
-      "pages": [
-            "via-negativa"
-          ]
+      "pages": ["via-negativa"]
     },
     {
       "group": "Ideas",
-      "pages": [
-            "start-here"
-      ]
+      "pages": ["start-here"]
     }
-      ],
+  ],
   "footerSocials": {
     "facebook": "https://www.facebook.com/chrischae0",
     "linkedin": "https://www.linkedin.com/in/chaec/",
